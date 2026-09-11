@@ -57,6 +57,14 @@ Premier lancement : activer le service dans **Réglages Android → Accessibilit
 
 > Développé avec Flutter 3.44 / Android SDK 36. App testée sur Samsung Galaxy A20e (Android 11).
 
+## Télécharger
+
+[![Télécharger v1.0.0](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-v1.0.0-1E6FA8?style=for-the-badge&logo=android&logoColor=white)](https://github.com/stonecamara/cocon-app/releases/download/v1.0.0/app-release.apk)
+
+> Android affichera un avertissement « application inconnue » : autorise simplement l'installation (l'app n'est pas sur le Play Store).
+
+Toutes les versions : [Releases](https://github.com/stonecamara/cocon-app/releases)
+
 ## Licence
 
 Projet personnel — tous droits réservés.
